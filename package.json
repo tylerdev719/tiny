@@ -1,5 +1,20 @@
 {
 	"name": "@tyler.engineer/tiny",
 	"version": "1.0.0",
-	"description": "A tiny package"
+	"description": "A tiny package",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tylerdev719/tiny.git"
+	},
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"tiny",
+		"npm",
+		"package",
+		"bamblehorse"
+	]
 }
